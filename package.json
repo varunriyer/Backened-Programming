@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/varunriyer/Backened-Programming/issues"
   },
-  "homepage": "https://github.com/varunriyer/Backened-Programming#readme"
+  "homepage": "https://github.com/varunriyer/Backened-Programming#readme",
+  "devDependencies": {
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
 }
